@@ -1,2 +1,29 @@
-# Fullstack-open-course
-Fullstack open course
+# Openstack
+
+
+## Schema
+
+
+## 2025-12-18
+ Läska klart part 0, och göra alla överningar på part 0
+
+## 2026-01-08
+läsa klart part 1
+
+## 2026-01-15
+part 2
+
+## 2026-01-22
+part 2
+
+## 2026-01-29
+part 2-3
+
+## 2026-02-05
+part 3
+
+## 2026-02-12
+part 3
+
+
+### 
