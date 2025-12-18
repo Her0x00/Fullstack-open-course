@@ -7,6 +7,8 @@
 ## 2025-12-18
  Läska klart part 0, och göra alla överningar på part 0
 
+ Jag läste klart part 0 och höll på med övningar, alla förutom den sista
+
 ## 2026-01-08
 läsa klart part 1
 
