@@ -12,8 +12,12 @@
 ## 2026-01-08
 läsa klart part 1
 
+Jag var sjuk så läste inte så mycket men läste lite på part 1
+
 ## 2026-01-15
 part 2
+
+Var sjuk här igen så lästa inte så mycket men läste en del på part 1
 
 ## 2026-01-22
 part 2
