@@ -20,16 +20,16 @@ part 2
 Var sjuk här igen så lästa inte så mycket men läste en del på part 1
 
 ## 2026-01-22
-part 2
+part 1 färdigt
 
 ## 2026-01-29
-part 2-3
+läsa halva part 2
 
 ## 2026-02-05
-part 3
+läsa klart part 2
 
 ## 2026-02-12
-part 3
+om inte part 2 är klar, och sen läsa part 3 så långt man hinner
 
 
 ### 
