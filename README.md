@@ -22,6 +22,9 @@ Var sjuk här igen så lästa inte så mycket men läste en del på part 1
 ## 2026-01-22
 part 1 färdigt
 
+läste klart part 1 men hann inte med alla övningar
+
+
 ## 2026-01-29
 läsa halva part 2
 
